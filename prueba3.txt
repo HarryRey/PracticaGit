@@ -2,3 +2,4 @@ Instagram
 Botón
 Botón de Snapchat
 Botón de PC
+Botón de teclado
